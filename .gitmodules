@@ -15,7 +15,7 @@
    path = tini
    url = https://github.com/krallin/tini.git
 
-[submodule "tini"]
+[submodule "sinit"]
    path = tini
    url = git://git.suckless.org/sinit
 

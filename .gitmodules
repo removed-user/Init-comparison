@@ -2,3 +2,7 @@
 [submodule "arachsys-init"]
    path = arachsys-init
    url = https://github.com/removed-user/arachsys-init
+
+[submodule "finit"]
+   path = finit
+   url = https://github.com/finit-project/finit.git

@@ -6,3 +6,23 @@
 [submodule "finit"]
    path = finit
    url = https://github.com/finit-project/finit.git
+
+[submodule "dumb-init"]
+   path = dumb-init
+   url = https://github.com/Yelp/dumb-init.git
+
+[submodule "tini"]
+   path = tini
+   url = https://github.com/krallin/tini.git
+
+[submodule "tini"]
+   path = tini
+   url = git://git.suckless.org/sinit
+
+[submodule "sinit-fork"]
+   path = sinit-fork
+   url = https://github.com/nshp/sinit.git
+
+[submodule "slashinit"]
+   path = slashinit
+   url = https://github.com/angt/slashinit.git
